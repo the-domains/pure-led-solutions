@@ -1,0 +1,28 @@
+name: Pure LED Solutions
+favicon: null
+layout_spectrum: 0.8748890531715006
+typography_spectrum: 0.12761703948490322
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.03553283982910216
+  lightness: 0.5050853029824793
+  saturation: 0.6233887085691094
+  rhythmicContrast: 0.7266640479210764
+purpose: []
