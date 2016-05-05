@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Pure LED Solutions]]></title>
         <description><![CDATA[Pure LED Solutions]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://pureledsolutions.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 12:15:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 05 May 2016 12:32:58 GMT</lastBuildDate>
+        <atom:link href="http://pureledsolutions.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9d96c4f-d202-4e9b-a01c-346cecf8a6bc.jpg">]]></description>
+            <link>http://pureledsolutions.com/be4e03c2-df4f-4d52-bdf6-cb28794700a0/index.html</link>
+            <guid isPermaLink="false">be4e03c2-df4f-4d52-bdf6-cb28794700a0</guid>
+            <pubDate>Thu, 05 May 2016 12:32:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Pure LED Solutions</p>]]></description>
-            <link>undefinedpure-led-solutions/index.html</link>
+            <link>http://pureledsolutions.com/pure-led-solutions/index.html</link>
             <guid isPermaLink="false">a1569727-baf5-4cb0-ac76-a8ad5d082dfe</guid>
             <pubDate>Thu, 05 May 2016 12:14:33 GMT</pubDate>
         </item>
