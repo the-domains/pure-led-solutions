@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Pure LED Solutions]]></title>
+        <description><![CDATA[Pure LED Solutions]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 05 May 2016 12:15:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Pure LED Solutions</p>]]></description>
+            <link>undefinedpure-led-solutions/index.html</link>
+            <guid isPermaLink="false">a1569727-baf5-4cb0-ac76-a8ad5d082dfe</guid>
+            <pubDate>Thu, 05 May 2016 12:14:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
